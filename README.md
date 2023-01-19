@@ -1,3 +1,35 @@
+#  Installation Steps
+ step1 : Install Node.js  (https://nodejs.org/en/)
+
+ step2 : Install Visual Studio Code (https://code.visualstudio.com/download)
+
+ step3 : place the project folder in any location in you system.
+
+ step4 : Open this project folder in visual studio.
+
+ step5 : open Command Promt and navigate to the project location 
+
+ step6 : enter command `npm start`. 
+
+ step7 : you can find the project is runner on localserver (http://localhost:3000)
+
+ # List of SIN Numbers that you can use in Project
+    "MM2874Z6",
+    "FEQQ6UUG",
+    "34GC829B",
+    "CB8FBCCM",
+    "CB923FCC",
+    "CM2432F3",
+    "D01F93CG",
+    "M2946EBG",
+    "MKD453DF",
+    "MN453X0G",
+# Admin Login Credentials
+    UserName : admin@shangrila.gov.un
+    Password : shangrila@2021$
+# Description :
+    This project is an E-survery web-application Developed on ReactJs, HTML, Firebase, Bootstrap, CSS, Json technologies.It has two roles Admin and User. admin can login to the website with his credentials and create, edit, delete question and view the analytics of the userdata in database. User need to register with the application and then he can login with those credentials, where he can able to answers the list of choose the best option type question's displayed on his screen and submit his survery.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +100,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
